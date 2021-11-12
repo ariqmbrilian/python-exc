@@ -16,6 +16,7 @@ curl localhost:5000
 ```
 
 ## DEPLOY PYTHON WITH CONTAINER
+### BUILD IMAGE
 ```
-
+docker build --tag python-docker .
 ```
