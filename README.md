@@ -8,6 +8,7 @@ pip3 freeze | grep Flask >> requirements.txt
 ```
 ### START APPLICATION
 ```
+export FLASK_APP=src/app.py
 python3 -m flask run
 ```
 ### ACCESS WITH ANOTHER CONNECTION ON
