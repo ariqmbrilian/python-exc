@@ -22,5 +22,5 @@ docker build --tag python-docker .
 ```
 ### RUN DOCKER
 ```
-docker run -d --name app1 -p 5000:5000 python-docker
+docker run -d -p 5000:5000 python-docker
 ```
