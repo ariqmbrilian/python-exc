@@ -1,5 +1,3 @@
-# Learn-Python
-
 ### BUILD IMAGE
 ```
 docker build --tag python-docker .
